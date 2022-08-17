@@ -1,0 +1,81 @@
+body {
+  background-color: Dimgrey;
+  margin: 0;
+  text-align: center;
+  background-image:url("a0333.gif");
+  background-repeat: no-repeat;
+
+  background-size: cover;
+  background-size: 3000px 990px;
+  background-position: center;
+
+
+}
+
+hr {
+  border-color: black;
+  border-style: dotted none none;
+  width: 1900px;
+  border-width: 50px;
+}
+.geeld{
+  position: fixed;
+  height: 100px;
+  left: 200px;
+}
+h1 {
+  color: #FFF89C;
+  text-shadow: 3px 3px red;
+}
+h2{
+  font-size: 3rem;
+  color: #FFF89C;
+  font-family: 'Aboreto', cursive;
+}
+
+h3 {
+  color: #1CD6CE;
+}
+.swet{
+  text-shadow: 6px 6px black;
+  width: 500px;
+  text-align: center;
+  margin: auto;
+}
+.game{
+  background-color: #E9DAC1;
+  margin-left: 0px;
+  position: absolute;
+  height: 80px;
+  width: 170px;
+  padding-left: 40px;
+  padding-top: 20px;
+  position: fixed;
+  font-size: 21px
+}
+.gayshit{
+  position: absolute;
+  width: 200px;
+  height: 100px;
+  left: 385px;
+  position: fixed;
+}
+
+.aka{
+  margin-bottom: 50px;
+}
+
+.h{
+  margin-bottom: 50px;
+}
+.ach{
+  margin-top: 60px;
+}
+
+.ol{
+  margin-bottom: 50px;
+
+  text-align: left;
+  display: inline-block;
+
+}
